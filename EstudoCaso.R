@@ -1,6 +1,6 @@
 # Estudo de Caso - Prevendo os Efeitos do Consumo de Álcool em Doenças do Fígado
 
-# Leia o manual em pdf no Capítulo 13 do curso com a especificação do estudo de caso.
+# Leia o manual em pdf no Capítulo do curso com a especificação do estudo de caso.
 
 # Obs: Caso tenha problemas com a acentuação, consulte este link:
 # https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding
